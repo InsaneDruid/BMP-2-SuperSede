@@ -3,7 +3,8 @@ into loadable files that can be displayed on the Supersoft HR40, HR40b and HR80 
 and my *SuperSede* clone series for the CBM PET series."""
 
 __author__      = "InsaneDruid"
-__copyright__   = "Copyright 2024, Creative Commons Zero v1.0 Universal"
+__copyright__   = "Copyright 2024"
+__license__     = "Creative Commons Zero v1.0 Universal"
 
 class wrongwidth(Exception):
     pass
